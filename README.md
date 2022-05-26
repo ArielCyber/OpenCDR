@@ -27,7 +27,7 @@ This is a web application development for Containment, Disarm and Reconstruct (C
 * WebAppController.java: Implemented several functions to handle better the REST api and to support mutuple files upload.
 
 ## Installation (Localy)
-* Clone the git <code> git clone https://github.com/ArielCyber/opencdr-js</code>
+* Clone the git <code> git clone https://github.com/ArielCyber/OpenCDR</code>
 * Install Docker Desktop: <url>https://docs.docker.com/desktop/</url>
 
 ## Usage (Localy)

@@ -1,11 +1,21 @@
-# opencdr-js
+# OpenCDR
 
 **Developers:** 
 - Vue.js: Rony Ronen, Eli Levi
-- CDR: Ran Dubin, Amit-Sheer Cohen, Eli Belkin
+- CDR: Ran Dubin, Amit-Sheer Cohen, Eli Belkind
 
 ## Overview
-This is a web application development for Containment, Disarm and Reconstruct (CDR). The CDR itself is based on the Springbot architecture and was developed earlier. We used the CDR application and built a web application around it. The website is based on a Vue.js frontend and the CDR as a backend running in a Docker Compose container.
+This is a web application development for Containment, Disarm and Reconstruct (CDR). We used the CDR application and built a web application around it and added CDR capabilities of handeling images. <br />
+There are 2 development paths in this project. <br />
+### Fullstack
+- Responsible for the development of the website
+- Divide of the CDR backend app to components and services
+- Making it easy to deploy and maintainable 
+- Create Deployment plan for Docker
+### Image CDR
+- Responsible for research and development of CDR methods for images
+- Created a complete research paper on the findings
+- Implementetion of the image CDR research to the backend app
 
  
 ## Dependencies
